@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Setup}{}% 2
+\BOOKMARK [1][-]{section.3}{Random Forest}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Binary Classification}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Classification with 3 Classes}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Classification with All Classes}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Support Vector Machine \(SVM\)}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Binary Classification}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Classification with 3 Classes}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Classification with All Classes}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Comparison of Random Forest and SVM}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Binary Classification Comparison}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Classification with 3 Classes Comparison}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.3}{Classification Using All Classes Comparison}{section.5}% 14

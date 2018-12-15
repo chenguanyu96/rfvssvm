@@ -1,0 +1,20 @@
+import numpy as np
+
+SEED = 123
+FILE_DIR = "report/img/"
+TEST_SIZE = 0.3
+EPS = np.sqrt((np.log(2./0.05))/(2.*480.))
+DATA_MISSING_RATE = 0.2
+
+## BINARY CLASSIFICATION
+POOR_THRES_BIN = 6
+GOOD_THRES_BIN = 7
+BINARY_BINS = (0, (POOR_THRES_BIN+GOOD_THRES_BIN)/2, 10)
+BGROUP_NAMES = ['poor', 'good']
+
+## 3 CLASSES CLASSIFICATION
+POOR_THRES_3CLS = 4
+OKAY_THRES_3CLS = [5, 6]
+GOOD_THRES_3CLS = 7
+TERNARY_BINS = (0, (4+5)/2, (6+7)/2, 10)
+TGROUP_NAMES = ['poor', 'okay', 'good']
